@@ -1,0 +1,35 @@
+form .error {
+	display: block;
+	margin: 10px 0;
+	color: #cc0000;
+}
+
+#errorslink {
+	display: none;
+}
+
+.ui-content img {
+	width: 100%;
+    height:auto;
+}
+
+.ui-page {
+	background-color: #689AF8;
+	background-image: url();
+}
+
+
+#splash p {
+	text-align: center;
+}
+
+
+iframe {
+	width: 100%;
+    height:auto;	
+}
+
+video {
+	width: 100%;
+    height:auto;	
+}
